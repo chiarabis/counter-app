@@ -159,4 +159,4 @@ counter("reset");
 ```
 
 ## Link al progetto
-[https://chiarabis.github.io/counter-app/]
+https://chiarabis.github.io/counter-app/
